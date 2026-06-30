@@ -1,4 +1,5 @@
 # Agentic AI — From Scratch
+<img width="719" height="339" alt="image" src="https://github.com/user-attachments/assets/e0d3743b-ffa8-4caa-9a5a-d43a74f36f70" />
 
 A hands-on journey learning agentic AI by building everything manually first, then comparing against popular frameworks — to understand exactly what each abstraction is hiding, not just how to use it.
 
