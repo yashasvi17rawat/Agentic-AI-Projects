@@ -3,6 +3,7 @@
 A complete Retrieval Augmented Generation (RAG) system, built without any framework. Scrapes a real website, converts its content into vector embeddings, stores them in a vector database, and answers questions grounded in that retrieved content instead of the LLM's training data.
 
 ## What is RAG?
+<img width="1400" height="662" alt="image" src="https://github.com/user-attachments/assets/6fdb2198-1e3b-456b-b7de-7297793d5e0c" />
 
 **R**etrieval **A**ugmented **G**eneration — instead of letting the LLM answer purely from what it was trained on (which can be outdated or made up), we:
 
