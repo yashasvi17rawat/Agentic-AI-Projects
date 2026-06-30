@@ -3,7 +3,7 @@
 This is the very first project in my agentic AI learning journey. No frameworks, no libraries like LangChain — just plain JavaScript, the OpenAI SDK, and Groq's free API. The goal was to understand exactly what's happening *before* relying on abstractions.
 
 ## What is ReAct?
-<img width="716" height="550" alt="image" src="https://github.com/user-attachments/assets/08f7e72e-49e4-41e1-a0c6-11078ccf3906" />
+<img width="584" height="577" alt="image" src="https://github.com/user-attachments/assets/5f8a0b8a-2abd-4bc9-bd48-9a88ffb291d0" />
 
 
 **ReAct = Reasoning + Acting.** Instead of an LLM just answering a question directly, it goes through a loop:
