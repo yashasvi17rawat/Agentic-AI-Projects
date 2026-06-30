@@ -1,6 +1,7 @@
 # 02 — LangChain ReAct Agent
 
 The same weather agent from Project 01, rebuilt using LangChain instead of writing the ReAct loop by hand. The goal wasn't to "upgrade" — it was to see exactly what a framework hides once you already understand what's underneath.
+<img width="565" height="146" alt="image" src="https://github.com/user-attachments/assets/aa11d72e-8392-4cca-8b50-d7274c008bde" />
 
 ## Impact
 
