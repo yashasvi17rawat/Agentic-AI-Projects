@@ -4,6 +4,7 @@ Two ways to coordinate multiple specialist agents, both built from scratch with 
 
 ## Handoff vs Orchestrator — the core difference
 <img width="482" height="203" alt="image" src="https://github.com/user-attachments/assets/842fdfde-1732-4621-878e-93239abd5954" />
+
 <img width="687" height="236" alt="image" src="https://github.com/user-attachments/assets/64fba653-670a-46c2-83fa-6d9a357ea435" />
 
 
