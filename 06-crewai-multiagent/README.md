@@ -2,6 +2,9 @@
 
 A real multi-agent pipeline using CrewAI: a researcher agent finds and understands a YouTube video on a given topic, then hands its findings to a writer agent that turns it into an engaging dialogue script. This is the only Python project in the repo — everything else is JavaScript.
 
+
+<img width="690" height="467" alt="image" src="https://github.com/user-attachments/assets/5f735e8a-11c0-4896-bf8a-9a027884284f" />
+
 ## How it works
 
 ```
